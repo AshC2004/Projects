@@ -1,0 +1,2 @@
+# System requirements for building/running this Java project
+openjdk 17+
